@@ -2,7 +2,7 @@
 - 👀 I’m interested in app ,web ,desktop
 - 🌱 I’m currently learning java spring boot
 - 💞️ I’m looking to collaborate on  app dev (flutter)
-- 📫 How to reach me contact me on mail(mehboobsub7860@gmail.com)
+- 📫 contact me on mail(mehboobsub7860@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
